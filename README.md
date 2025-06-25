@@ -1,6 +1,6 @@
 # CopyReference4Pytest
 
-[🇪🇸 Español](#español) | [🇺🇸 English](#english)
+[🇪🇸 Español](#-español) | [🇺🇸 English](#-english)
 
 ![License](https://img.shields.io/badge/license-MIT--NC-blue)
 ![JetBrains Plugin](https://img.shields.io/jetbrains/plugin/v/27721)
